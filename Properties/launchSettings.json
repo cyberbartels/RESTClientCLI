@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RESTClientCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "read --debug"
+    }
+  }
+}
